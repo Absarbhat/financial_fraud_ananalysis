@@ -8,7 +8,7 @@ The project uses the Online Payment Fraud Detection Dataset obtained from Kaggle
 
 *Note* : The original dataset is not included in this repository due to its large file size. Users can download the dataset from Kaggle and place it inside the Dataset folder.
 
-Dataset Features:
+### Dataset Features:
 
 - ⁠Transaction Type
 •⁠  ⁠Transaction Amount
@@ -17,7 +17,7 @@ Dataset Features:
 •⁠  ⁠Fraud Indicator (isFraud)
 •⁠  ⁠Fraud Flag (isFlaggedFraud)
 
-Technologies Used
+### Technologies Used
 
 •⁠  ⁠Python
 •⁠  ⁠Pandas
