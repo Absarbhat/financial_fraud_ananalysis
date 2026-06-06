@@ -6,7 +6,7 @@ This project analyzes online payment transaction data to identify fraudulent act
 ## Dataset
 The project uses the Online Payment Fraud Detection Dataset obtained from Kaggle.
 
-Note: The original dataset is not included in this repository due to its large file size. Users can download the dataset from Kaggle and place it inside the Dataset folder.
+*Note* : The original dataset is not included in this repository due to its large file size. Users can download the dataset from Kaggle and place it inside the Dataset folder.
 
 Dataset Features:
 
