@@ -1,4 +1,4 @@
-# financial_fraud_ananalysis
+# financial_fraud_analysis
 # Project Overview
 
 This project analyzes online payment transaction data to identify fraudulent activities using Python, Pandas, and NumPy. The objective is to explore transaction patterns, detect suspicious behavior, and generate meaningful insights that can support fraud prevention and decision-making.
